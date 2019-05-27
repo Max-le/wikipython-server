@@ -1,5 +1,5 @@
 # wikipython-server
-This is the server side ( working as an API ) of the app WIkipython, which provides translations based on Wiktionary's data
+This is the server side ( working as an API ) of the app Wikipython, which provides translations based on Wiktionary's data
 
 --- 
 HOW TO USE THE API : 
