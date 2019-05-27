@@ -1,0 +1,34 @@
+{
+    "a device that measures, and indicates the current speed of a vehicle": [
+        {
+            "meaning": "a device that measures, and indicates the current speed of a vehicle",
+            "type": "t",
+            "lang": "de",
+            "translation": "Geschwindigkeitsmesser",
+            "gender": "m"
+        },
+        {
+            "meaning": "a device that measures, and indicates the current speed of a vehicle",
+            "type": " t+",
+            "lang": "de",
+            "translation": "Tachometer",
+            "gender": "m"
+        },
+        {
+            "meaning": "a device that measures, and indicates the current speed of a vehicle",
+            "type": " t+",
+            "lang": "de",
+            "translation": "Tacho",
+            "gender": ""
+        }
+    ],
+    "such a device incorporating an odometer": [
+        {
+            "meaning": "such a device incorporating an odometer",
+            "type": "t+",
+            "lang": "de",
+            "translation": "Tachometer",
+            "gender": "m"
+        }
+    ]
+}
