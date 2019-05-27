@@ -1,399 +1,102 @@
-{{also|Vote|voté|!vote|vot'e}}
 ==English==
-{{was wotd|2016|November|8}}
-[[File:2014 Syrian presidential election day in Damascus (6).jpg|thumb|Women casting their votes during the {{w|Syrian presidential election, 2014}}]]
+
+===Alternative forms===
+* {{l|en|speedometre}} {{qualifier|nonstandard}}
 
 ===Etymology===
-From {{der|en|la|vōtum}}, a form of {{m|la|voveō||I [[vow#Verb|vow]]}} (cognate with {{cog|grc|εὔχομαι||to vow}}), from {{der|en|ine-pro|*h₁wogʷʰ-}}. The word is thus a {{doublet|en|vow|nocap=1}}.
+{{affix|en|speed|-o-|-meter}}
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|/vəʊt/|lang=en}}
-* {{a|GA}} {{IPA|/voʊt/|lang=en}}
-* {{audio|en-us-vote.ogg|Audio (GA)|lang=en}}
-* {{rhymes|əʊt|lang=en}}
+* {{IPA|/spɪˈdɑː.mə.t̬ɚ/|/spiːˈdɒm.ɪ.tə(ɹ)/|lang=en}}
+* {{rhymes|ɑmədəɹ|lang=en}}
 
 ===Noun===
+{{wikipedia}}
 {{en-noun}}
 
-# A [[formalized]] [[choice]] on matters of [[administration]] or other [[democratic]] activities.
-#: {{ux|en|The city council decided the matter should go to public '''vote'''.}}
-#: {{ux|en|Parliament will hold a '''vote''' of confidence regarding the minister.}}
-#: {{ux|en|One occasion indicative '''votes''' were used was in 2003 when MPs were presented with seven different options on how to reform the House of Lords.}}
-# An act or instance of [[participate|participating]] in such a choice, e.g., by [[submit]]ting a [[ballot]].
-#: {{ux|en|The Supreme Court upheld the principle of one person, one '''vote'''.}}
-#* {{quote-book|lang=en|year=1836|author={{w|Oliver Wendell Holmes, Sr.}}|title=“Poetry: A Metrical Essay”, republished in ''The Poems of Oliver Wendell Holmes''|location=Boston, Mass.:|publisher={{w|Ticknor and Fields}}|year/1862|OCLC=5091562|pageurl=https://books.google.com/books?id=UF5AAAAAYAAJ&pg=PA8|pages=7–8|passage=There breathes no being but has some pretence / To that fine instinct called poetic sense; {{...}} / The freeman, casting with unpurchased hand / The '''vote''' that shakes the turrets of the land.}}
-#* {{RQ:Brmnghm Gsmr|I|01|As a political system democracy seems to me extraordinarily foolish, but I would not go out of my way to protest against it. My servant is, so far as I am concerned, welcome to as many '''votes''' as he can get. I would very gladly make mine over to him if I could.}}
-# {{lb|en|obsolete}} An [[ardent]] [[wish#Noun|wish]] or [[desire#Noun|desire]]; a [[vow#Noun|vow]]; a [[prayer]].
-#* '''1633''', {{w|Philip Massinger}}, “[[w:The Guardian (play)|The Guardian]]”, in ''Three New Playes; viz. The Bashful Lover, The Guardian, The Very Woman. As They have been Often Acted at the [[w:Blackfriars Theatre|Private-House in Black-Friers]], by [[w:King's Men (playing company)|His Late Majesties Servants]], with Great Applause'', London: Printed for {{w|Humphrey Moseley}}, and are to be sold at his Shop at the Sign of the Prince's Arms in [[w:St Paul's Cathedral|St. Pauls Church-yard]], published 1655, <small>{{w|OCLC}} [http://www.worldcat.org/oclc/15553475 15553475]</small>; republished as “The Guardian. A Comical History. As It hath been Often Acted at the Private-House in Black-Friars, by His Late Majesty's Servants, with Great Applause, 1655.”, in {{w|Thomas Coxeter}}, editor, ''The Works of Philip Massinger. Volume the Fourth. Containing, The Guardian. A Very Woman. The Old Law. The City Madam. And Poems on Several Occasions'', volume IV, London: Printed for [[w:Thomas Davies (bookseller)|T[homas] Davies]], in Russel-street, [[w:Covent Garden|Covent-Garden]], 1761, <small>{{w|OCLC}} [http://www.worldcat.org/oclc/6847259 6847259]</small>, Act V, scene i, [https://books.google.com/books?id=eTnuAAAAMAAJ&pg=PA71 page 71]:
-#*: ''Jol''[''ante'']. In you, Sir, / I live; and when, or by the Courſe of Nature, / Or Violence you muſt fall, the End of my / Devotions is, that one and the ſame Hour / May make us fit for Heaven. // ''Server''. I join with you / In my '''votes''' that way: {{...}}
+# A device that measures, and indicates the current [[speed]] of a [[vehicle]].
+# Such a device incorporating an [[odometer]].
 
-====Hyponyms====
-{{col4|en
-|Bubba vote
-|clothespin vote
-|conscience vote
-|crossover vote
-|donkey vote
-|early vote
-|faggot vote
-|floating vote
-|free vote
-|informal vote
-|popular vote
-|postal vote
-|protest vote
-|supervote
-|swing vote
-|voice vote
-|vote of confidence
-|vote of no confidence
-|vote of thanks
-|whipped vote}}
-
-====Derived terms====
-{{der3|en
-|cast one's vote
-|cross-vote
-|downvote
-|get out the vote
-|nonvote
-|overvote
-|revote
-|subvote
-|televote
-|undervote
-|upvote
-|vote bank
-|votebank
-|vote buying
-|vote-catching
-|vote mob
-|voteless
-|voter
-|votesheet
-|voteworthy
-|vote-by-mail
-|vote-winner}}
+====Synonyms====
+* {{sense|device that measures speed}} {{l|en|tachometer}}
 
 ====Translations====
-{{trans-top|formalised choice}}
-* Afrikaans: {{t+|af|stem}}
-* Albanian: {{t+|sq|drejtë}}, {{t+|sq|votë|f}}, {{t+|sq|votim|m}}
-* Armenian: {{t+|hy|քվեարկություն}}
-* Asturian: {{t|ast|votu|m}}
-* Bashkir: {{t|ba|тауыш|sc=Cyrl}}
-* Belarusian: {{t|be|го́лас|m}}
-* Bulgarian: {{t+|bg|глас|m}}
-* Burmese: {{t+|my|မဲ}}, {{t+|my|မဲဆန္ဒ}}
-* Catalan: {{t+|ca|vot|m}}
+{{trans-top|a device that measures, and indicates the current speed of a vehicle}}
+* Armenian: {{t+|hy|արագաչափ}}
+* Asturian: {{t|ast|velocímetru|m}}
+* Catalan: {{t|ca|velocímetre|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|投票|tr=tóupiào|sc=Hani}}, {{t+|cmn|表決|sc=Hani}}, {{t+|cmn|表决|tr=biǎojué|sc=Hani}}
-* Czech: {{t+|cs|hlas|m}}
-* Danish: {{t+|da|afstemning|c}}, {{t+|da|stemme|c}}
-* Dutch: {{t+|nl|stem|f}}, {{t+|nl|stembusgang|m}}
-* Esperanto: {{t|eo|voĉdono}}, {{t|eo|baloto}}
-* Estonian: {{t|et|hääletamine}}
-* Finnish: {{t+|fi|äänestys}}
-* French: {{t+|fr|voix|f}}, {{t+|fr|vote|m}}
-* Galician: {{t+|gl|voto|m}}
-* Georgian: {{t|ka|ხმა}}
-* German: {{t+|de|Stimme|f}}, {{t+|de|Votum|n}}
-* Greek: {{t+|el|ψηφοφορία|f}}
-*: Ancient: {{t|grc|ψηφοφορίᾱ|f}}, {{t|grc|χειροτονίᾱ|f}}
-* Hebrew: {{t+|he|בְּחִירָה|f|tr=b'khirá}}
-* Hindi: {{t+|hi|वोट|m}}
-* Hungarian: {{t+|hu|szavazás}}
-* Icelandic: {{t+|is|kosning|f}}
-* Irish: {{t|ga|vóta|m}}
-* Italian: {{t+|it|voto|m}}
-* Japanese: {{t+|ja|投票|tr=とうひょう, tōhyō|sc=Jpan}}
-* Khmer: {{t|km|ការបោះឆ្នោត}}
-* Korean: {{t+|ko|투표}} ({{t+|ko|投票}})
+*: Mandarin: {{t|cmn|车速表|tr=[[chēsùbiǎo]]|sc=Hani}}; {{t+|cmn|速度计|tr=[[sùdùjì]]|sc=Hani}}; {{t+|cmn|速度表|tr=[[sùdùbiǎo]]|sc=Hani}}
+* Dutch: {{t+|nl|snelheidsmeter|m}}
+* Finnish: {{t+|fi|nopeusmittari}}
+* French: {{t+|fr|compteur de vitesse}}
+* Galician: {{t|gl|velocímetro|m}}
+* Georgian: {{t+|ka|სპიდომეტრი}}
+* German: {{t|de|Geschwindigkeitsmesser|m}}, {{t+|de|Tachometer|m}}, {{t+|de|Tacho|m}} {{qualifier|colloquial}}
+* Italian: {{t+|it|tachimetro|m}}
+* Japanese: {{t|ja|速度計|tr=sokudokei}}
 {{trans-mid}}
-* Lao: {{t+|lo|ຄະແນນ}}, {{t+|lo|ການເລືອກຕັ້ງ}}
-* Latin: {{t|la|suffrāgium|n}}
-* Latvian: {{t|lv|balsošana}}, {{t|lv|balss}}
-* Lithuanian: {{t+|lt|balsas}}
-* Macedonian: {{t|mk|глас|m}}
-* Maori: {{t|mi|pōti}}
-* Norman: {{t|nrf|vote|m}} {{qualifier|Jersey}}
+* Korean: {{t+|ko|속도계}}
+* Macedonian: {{t|mk|брзиномер|m|tr=brzinomér|sc=Cyrl}}
+* Malay: {{t|ms|jangka laju}}, {{t|ms|meter laju}}, {{t|ms|spidometer}}
+* Maori: {{t|mi|ine-tere}}, {{t|mi|inerere}}
 * Norwegian:
-*: Bokmål: {{t|no|avstemning|m|f}}, {{t+|nb|stemme|m}}
-*: Nynorsk: {{t|nn|avstemming|f}}, {{t|nn|avrøysting|f}}
-* Novial: {{t|nov|vote}}
-* Occitan: {{t+|oc|vòt|m}}
-* Persian: {{t+|fa|رأی|tr=ra'y}}
-* Polish: {{t+|pl|głos|m}}
-* Portuguese: {{t+|pt|voto|m}}
-* Romanian: {{t+|ro|vot|n}}
-* Russian: {{t+|ru|го́лос|m}}, {{t+|ru|во́тум|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|глас|m|sc=Cyrl}}
-*: Roman: {{t+|sh|glas|m}}
-* Slovak: {{t+|sk|hlas|m}}
-* Slovene: {{t+|sl|glás|m}}
-* Spanish: {{t+|es|voto|m}}
-* Swedish: {{t+|sv|röstning|c}}, {{t+|sv|omröstning|c}}
-* Tajik: {{t+|tg|овоз}}, {{t|tg|раъй}}, {{t|tg|раъйдиҳй}}
-* Thai: {{t+|th|เสียง}}, {{t+|th|การเลือกตั้ง}}
-* Turkish: {{t+|tr|oylama}}, {{t+|tr|oy}}, {{t+|tr|rey}}
-* Ukrainian: {{t+|uk|го́лос|m}}
-* Urdu: {{t|ur|ووٹ|m|tr=voṭ}}
-* Vietnamese: {{t+|vi|bỏ phiếu}}, {{t+|vi|đầu phiếu }} ({{t+|vi|投票}})
-* Welsh: {{t|cy|pleidlais|f}}
-* Zazaki: {{t|zza|rey|f}}
+*: Bokmål: {{t|nb|fartsmåler|m}}, {{t|nb|speedometer|n}}
+*: Nynorsk: {{t|nn|fartsmålar|m}}, {{t|nn|speedometer|n}}
+* Portuguese: {{t+|pt|velocímetro|m}}
+* Romanian: {{t+|ro|vitezometru|n}}
+* Russian: {{t+|ru|спидо́метр|m}}
+* Serbo-Croatian: {{t+|sh|brzinomjer|m}}
+* Spanish: {{t+|es|velocímetro|m}}
+* Swedish: {{t+|sv|hastighetsmätare|c}}
 {{trans-bottom}}
 
-{{trans-top|instance of voting}}
-* Arabic: {{t|ar|تَصْوِيت|m}}, {{t|ar|اِقْتِرَاع|m}}
-* Armenian: {{t+|hy|ձայն}}, {{t+|hy|քվե}}
-* Bashkir: {{t|ba|тауыш биреү|sc=Cyrl}}
-* Catalan: {{t+|ca|vot|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|投票|tr=tóupiào|sc=Hani}}, {{t+|cmn|表決|sc=Hani}}, {{t+|cmn|表决|tr=biǎojué|sc=Hani}}
-* Esperanto: {{t|eo|voĉdono}}, {{t|eo|baloto}}
-* Finnish: {{t+|fi|ääni}}
-* French: {{t+|fr|vote|m}}
-* Galician: {{t+|gl|voto|m}}
-* Georgian: {{t|ka|ხმის მიცემა}}
-* German: {{t+|de|Abstimmung|f}}
-* Greek: {{t+|el|ψήφος|f}}
-*: Ancient: {{t|grc|ψῆφος|n}}, {{t|grc|ψηφοφορίᾱ|f}}, {{t|grc|χειροτονίᾱ|f}}
-* Hungarian: {{t+|hu|szavazat}}
-* Icelandic: {{t+|is|atkvæði|n}}
+{{trans-top|such a device incorporating an odometer}}
+* Finnish: {{t+|fi|nopeusmittari}}
 {{trans-mid}}
-* Ido: {{t+|io|voto}}
-* Irish: {{t|ga|vótáil|f}}
-* Khmer: {{t+|km|ឆ្នោត}}
-* Latin: {{t|la|suffrāgium|n}}
-* Malay: {{t|ms|undian}}
-* Norman: {{t|nrf|vote|m}} {{qualifier|Jersey}}
-* Polish: {{t+|pl|głosowanie|n}}
-* Portuguese: {{t+|pt|votação|f}}
-* Russian: {{t+|ru|голосова́ние|n}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|гласање|n|sc=Cyrl}}
-*: Roman: {{t+|sh|glasanje|n}}
-* Slovene: {{t|sl|glasovanje|n}}
-* Swedish: {{t+|sv|röst|c}}
-* Ukrainian: {{t+|uk|голосува́ння|n}}
-* Vietnamese: {{t+|vi|biểu quyết }}
+* German: {{t+|de|Tachometer|m}}
 {{trans-bottom}}
-
-===Verb===
-{{en-verb|vot}}
-
-# {{lb|en|intransitive|transitive}} To [[cast#Verb|cast]] a vote; to assert a formalized choice in an [[election]].
-#: {{ux|en|The depository may '''vote''' shares on behalf of investors who have not submitted instruction to the bank.}}
-#* {{quote-text|lang=en|author=F. W. Robertson|passage=To '''vote''' on large principles, to '''vote''' honestly, requires a great amount of information.}}
-
-====Hyponyms====
-* {{l|en|vote in}}
-* {{l|en|vote out}}
-* {{l|en|vote down}}
-
-====Derived terms====
-{{der3|en
-|countervote
-|voting
-|vote with one's feet
-|undervote
-|unvote
-|unvoted
-|upvote
-|outvote
-|overvote
-|postvote
-|prevote
-|revote
-|old enough to vote
-|misvote
-|how-to-vote card
-|cross-vote
-|downvote
-|votable
-|voteable}}
-
-====Translations====
-{{trans-top|assert a formalised choice}}
-* Afrikaans: {{t+|af|stem}}
-* Albanian: {{t+|sq|votoj}}
-* Arabic: {{t+|ar|صَوَّتَ}}
-* Armenian: {{t+|hy|քվեարկել}}, {{t+|hy|ձայն տալ}}
-* Asturian: {{t|ast|votar}}
-* Azerbaijani: {{t|az|səs vermək}}
-* Basque: {{t|eu|bozkatu}}
-* Belarusian: {{t|be|галасава́ць|impf}}, {{t|be|прагаласава́ць|pf}}
-* Bulgarian: {{t+|bg|гласу́вам|impf|pf}}
-* Burmese: {{t+|my|မဲပေး}}, {{t+|my|ရွေးကောက်}}
-* Catalan: {{t+|ca|votar}}
-* Chinese:
-*: Mandarin: {{t+|cmn|投票|tr=tóupiào|sc=Hani}}, {{t+|cmn|表決|sc=Hani}}, {{t+|cmn|表决|tr=biǎojué|sc=Hani}}
-* Czech: {{t+|cs|hlasovat|impf}}
-* Danish: {{t+|da|stemme}}
-* Dutch: {{t+|nl|stemmen}}
-* Esperanto: {{t|eo|voĉdoni}}, {{t+|eo|baloti}}
-* Estonian: {{t|et|valima}}, {{t|et|hääletama}}
-* Finnish: {{t+|fi|äänestää}}
-* French: {{t+|fr|voter}}
-* Galician: {{t+|gl|votar}}
-* Georgian: {{t|ka|ხმის მიცემა}}
-* German: {{t+|de|wählen}}, {{t+|de|stimmen}}
-* Greek: {{t+|el|ψηφίζω}}
-*: Ancient: {{t|grc|ψηφίζομαι}}, {{t|grc|ψηφοφορέω}}, {{t|grc|χειροτονέω}}
-* Hebrew: {{t|he|בָּחַר|tr=bakhár}}, {{t+|he|הִצְבִּיעַ|tr=hitsbía'}}
-* Hindi: {{t|hi|वोट देना}}
-* Hungarian: {{t+|hu|szavaz}}
-* Icelandic: {{t+|is|kjósa}}
-* Ido: {{t+|io|votar}}
-* Irish: {{t|ga|vótáil|f}}
-* Italian: {{t+|it|votare}}
-* Japanese: {{t+|ja|投票|tr=とうひょうする, tōhyō suru|alt=投票する|sc=Jpan}}
-* Kazakh: {{t+|kk|дауыс беру}}
-* Khmer: {{t|km|បោះឆ្នោត}}
-* Korean: {{t+|ko|투표하다}}
-* Kyrgyz: {{t|ky|добуш берүү}}
-{{trans-mid}}
-* Lao: {{t|lo|ລົງຄະແນນ}}, {{t|lo|ເລືອກຕັ້ງ}}
-* Latin: {{t|la|suffrāgō}}
-* Latvian: {{t|lv|balsot}}
-* Lithuanian: {{t|lt|balsuoti}}
-* Macedonian: {{t|mk|гласа|impf}}
-* Malay: {{t|ms|undi|alt=mengundi}}
-* Maori: {{t|mi|pōti}}
-* Mongolian: {{t|mn|санал өгөх}}
-* Navajo: {{t|nv|eʼeʼáád}}, {{t|nv|iʼiinííł}}
-* Norman: {{t|nrf|voter}} {{qualifier|Jersey}}
-* Norwegian: {{t+|no|stemme}}
-* Novial: {{t|nov|vota}}
-* Occitan: {{t+|oc|votar}}
-* Persian: {{t+|fa|رای دادن|tr=ra'y dâdan|sc=fa-Arab}}
-* Polish: {{t+|pl|głosować|impf}}
-* Portuguese: {{t+|pt|votar}}
-* Romanian: {{t+|ro|vota}}
-* Russian: {{t+|ru|голосова́ть|impf}}, {{t+|ru|проголосова́ть|pf}}
-* Scottish Gaelic: {{t|gd|tagh}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|гласати|impf}}, {{t|sh|гласовати|impf}}
-*: Roman: {{t+|sh|glasati|impf}}, {{t+|sh|glasovati|impf}}
-* Slovak: {{t|sk|hlasovať|impf}}
-* Slovene: {{t|sl|glasovati|impf}}
-* Sotho: {{t+|st|vouta}}
-* Spanish: {{t+|es|votar}}
-* Swahili: {{t|sw|piga kura|alt=-piga kura}}
-* Swedish: {{t+|sv|rösta}}
-* Tajik: {{t|tg|овоз додан}}
-* Thai: {{t+|th|โหวต}}, {{t+|th|เลือกตั้ง}}
-* Turkish: {{t+|tr|oylamak}}
-* Turkmen: {{t|tk|ses bermek}}
-* Ukrainian: {{t|uk|голосува́ти|impf}}, {{t|uk|проголосува́ти|pf}}
-* Uzbek: {{t|uz|ovoz bermoq}}
-* Vietnamese: {{t+|vi|bỏ phiếu}}
-* Volapük: {{t+|vo|vögodön}}
-* Welsh: {{t+|cy|pleidleisio}}
-* Zazaki: {{t|zza|rey dayen}}, {{t|zza|rey kerden }}
-{{trans-bottom}}
-
-====See also====
-* {{l|en|elect}}
-* {{l|en|nominate}}
-
-===Further reading===
-{{Wikisource1911Enc Citation|vote and voting}}
-* {{pedia|Voting}}
 
 ===Anagrams===
-* {{anagrams|en|a=eotv|to've|veto}}
+* {{anagrams|en|a=deeeemoprst|speedometre}}
 
-[[Category:en:Democracy]]
-
-----
-
-==Asturian==
-
-===Verb===
-{{ast-verb form}}
-
-# {{inflection of|votar||1|s|pres|subj|lang=ast}}
-# {{inflection of|votar||3|s|pres|subj|lang=ast}}
+[[Category:en:Auto parts]]
+[[Category:en:Measuring instruments]]
 
 ----
 
-==French==
+==Norwegian Bokmål==
 
 ===Etymology===
-Borrowed from {{bor|fr|en|vote}}. {{doublet|fr|vœu}}.
-
-===Pronunciation===
-* {{fr-IPA}}
-* {{audio|Fr-Paris--vote.ogg|Audio (Paris)|lang=fr}}
+Probably from {{etyl|en|-}} {{qualifier|not the same gender as other Bokmål words ending in {{m|nb|meter}}}}
 
 ===Noun===
-{{fr-noun|m}}
+{{head|nb|noun|g=n|definite singular|speedometeret|or|speedometret|indefinite plural|speedometer|or|speedometre|definite plural|speedometra|or|speedometrene}}
 
-# {{l|en|vote}}
+# a {{l|en|speedometer}}
 
-====Related terms====
-* {{l|fr|votant}}
+====Synonyms====
+* {{l|nb|fartsmåler}}
 
-===Verb===
-{{head|fr|verb form}}
-
-# {{inflection of|voter||1|s|pres|indc|lang=fr}}
-# {{inflection of|voter||3|s|pres|indc|lang=fr}}
-# {{inflection of|voter||1|s|pres|subj|lang=fr}}
-# {{inflection of|voter||3|s|pres|subj|lang=fr}}
-# {{inflection of|voter||2|s|impr|lang=fr}}
-
-===Further reading===
-* {{R:TLFi}}
-
-===Anagrams===
-* {{l|fr|veto}}, {{l|fr|véto}}
+===References===
+* {{R:The Bokmål Dictionary}}
+{{topics|nb|Automotive|Measuring instruments}}
 
 ----
 
-==Latin==
-
-===Participle===
-{{la-part-form|vōte}}
-
-# {{inflection of|vōtus||voc|m|s|lang=la}}
-
-----
-
-==Norman==
+==Norwegian Nynorsk==
 
 ===Etymology===
-Borrowed from {{bor|nrf|en|vote}}, from {{etyl|la|nrf}} {{m|la|vōtum}}, from {{m|la|voveo|voveō, vovēre|vow}}, from {{etyl|ine-pro|nrf}} {{m|ine-pro|*h₁ewegʷʰ-}}.
+Probably from {{etyl|en|-}} {{qualifier|not the same gender as other Nynorsk words ending in {{m|nn|meter}}}}
 
 ===Noun===
-{{nrf-noun|m}}
+{{nn-noun-n1}}
 
-# {{lb|nrf|Jersey}} [[#English|vote]]
+# a {{l|en|speedometer}}
 
-----
+====Synonyms====
+* {{l|nn|fartsmålar}}
 
-==Portuguese==
-
-===Pronunciation===
-* {{a|Brazil}} {{IPA|/ˈvɔ.t͡ʃi/|lang=pt}}
-
-===Verb===
-{{head|pt|verb form}}
-
-# {{pt-verb-form-of|votar|e}}
-
-----
-
-==Spanish==
-
-===Pronunciation===
-* {{es-IPA}}
-
-===Verb===
-{{head|es|verb form}}
-
-# {{es-verb form of|person=first-person|number=singular|tense=present|mood=subjunctive|ending=ar|votar}}
-# {{es-verb form of|person=third-person|number=singular|tense=present|mood=subjunctive|ending=ar|votar}}
-# {{es-verb form of|formal=yes|person=second-person|number=singular|sense=affirmative|mood=imperative|ending=ar|votar}}
+===References===
+* {{R:The Nynorsk Dictionary}}
+{{topics|nn|Automotive|Measuring instruments}}
