@@ -8,6 +8,7 @@ from flask_cors import CORS
 from bs4 import BeautifulSoup
 import wikipedia
 import scan, fetcher, json
+import google_images_fetcher
 app = Flask(__name__)
 CORS(app)
 
@@ -33,6 +34,14 @@ def translate():
     dico = scan.extract_defs_and_translations('word_data.txt', lang)
     data =  json.dumps(dico, indent=4 )
     return Response(data, mimetype='text/json')
+@app.route("/image")
+def image():
+    query_image = request.args.get('word')
+    number_results = request.args.get('number')
+    list_url_images = google_images_fetcher.search(query_image, number_results)
+    data =  json.dumps(list_url_images, indent=4 )
+    return Response(data, mimetype='text/json')
+
 @app.route('/list')
 def list():
     word_to_translate = request.args.get('word')

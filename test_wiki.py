@@ -4,7 +4,7 @@ import scan
 import pycountry
 from bs4 import BeautifulSoup
 import json
-
+import google_images_fetcher
 # word = 'Aachen' 
 # wikilink = 'https://fr.wikipedia.org/wiki/Aix-la-Chapelle'
 # related_pages = get_related_wiki_pages(word)
@@ -19,7 +19,8 @@ import json
 
 # print_dict(my_dico)
 # request.get_wiktionary_data('Run')
-x = json.dumps(scan.extract_defs_and_translations('word_data.txt', 'German'))
-print(x)
+# x = json.dumps(scan.extract_defs_and_translations('word_data.txt', 'German'))
+# print(x) 
+print_array(google_images_fetcher.search('lautsprecher', 6))
 # language = pycountry.languages.get(name='Englishh')
 
