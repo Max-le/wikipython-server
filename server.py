@@ -21,7 +21,7 @@ def my_form_post():
     word = request.form['text']
     lang = 'German'
     payload = {'word': word, 'lang': lang}
-    r = requests.get("http://127.0.0.1:5000/translate", params=payload)
+    r = requests.get("https://cryptic-gorge-83791.herokuapp.com/translate", params=payload)
     print(r.url)
     result = json.loads(r.text)
     return render_template("home.html", data=result)
