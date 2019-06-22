@@ -1,6 +1,12 @@
 # wikipython-server
 This is the server side ( working as an API ) of the app Wikipython, which provides translations based on Wiktionary's data
 
+## Start the Flask server 
+In Terminal : 
+```
+export FLASK_APP=server.py
+flask run
+```
 --- 
 HOW TO USE THE API : 
 
