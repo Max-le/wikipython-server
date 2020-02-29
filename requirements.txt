@@ -6,6 +6,7 @@ chardet==3.0.4
 Click==7.0
 Flask==1.1.1
 Flask-Cors==3.0.7
+gunicorn==20.0.4
 idna==2.9
 iso-639==0.4.5
 isort==4.3.17
