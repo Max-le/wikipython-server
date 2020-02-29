@@ -4,9 +4,7 @@ import json
 
 from flask import Flask, request, render_template, Response
 from flask_cors import CORS
-
 import fetcher
-import google_images_fetcher
 import scan
 from wiki import *
 
@@ -37,15 +35,6 @@ def translate():
     fetcher.get_wiktionary_data(word)
     dico = scan.extract_defs_and_translations('word_data.txt', lang)
     data = json.dumps(dico, indent=4)
-    return Response(data, mimetype='text/json')
-
-
-@app.route("/image")
-def image():
-    query_image = request.args.get('word')
-    number_results = request.args.get('number')
-    list_url_images = google_images_fetcher.search(query_image, number_results)
-    data = json.dumps(list_url_images, indent=4)
     return Response(data, mimetype='text/json')
 
 
