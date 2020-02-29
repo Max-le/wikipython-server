@@ -2,3 +2,6 @@
 .DS_Store
 word_data.txt
 /img
+/venv/
+/.vscode/
+/.idea/
