@@ -22,7 +22,7 @@ def my_form_post():
     word = request.form['text']
     lang = 'German'
     payload = {'word': word, 'lang': lang}
-    r = requests.get("http://"+request.base_url+"translate", params=payload)
+    r = requests.get("https://"+request.base_url+"translate", params=payload)
 
     result = json.loads(r.text)
     return render_template("home.html", data=result)
