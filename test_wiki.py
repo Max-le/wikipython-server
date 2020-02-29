@@ -1,11 +1,7 @@
-from wiki import *
-import fetcher
-import scan
-import pycountry
-from bs4 import BeautifulSoup
-import json
 import google_images_fetcher
-# word = 'Aachen' 
+from wiki import *
+
+# word = 'Aachen'
 # wikilink = 'https://fr.wikipedia.org/wiki/Aix-la-Chapelle'
 # related_pages = get_related_wiki_pages(word)
 # page = wikipedia.page(related_pages[0])
@@ -23,4 +19,3 @@ import google_images_fetcher
 # print(x) 
 print_array(google_images_fetcher.search('lautsprecher', 6))
 # language = pycountry.languages.get(name='Englishh')
-
