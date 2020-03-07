@@ -6,11 +6,11 @@ def prettify(string):
     return string.replace('{', '').replace('}', '').replace('trans-top|', '').replace("\n", "")
 
 
-# Returns a dictionary contaning [ definition =>  word]
+# Returns a dictionary containing [ definition =>  word]
 def extract_defs_and_translations(filename, target_lang):
     translations = dict()
-    if (os.path.isfile(filename) == False): raise Exception('Couldn\'t find ' + filename)
-    with open(filename, ('rt')) as lines:
+    if not os.path.isfile(filename): raise Exception('Couldn\'t find ' + filename)
+    with open(filename, 'rt') as lines:
         current_definition = ''
         for line in lines:
             if line.find('trans-top') != -1:
@@ -27,13 +27,13 @@ def extract_defs_and_translations(filename, target_lang):
 # Example : 't+|de|Sprecher|m, t+|de|Sprecherin|f'
 
 
-##TO-DO : Solve case when there's a qualifier
+# TODO : Solve case when there's a qualifier
 def structure_word(raw):
     words = raw.split(',')
     cleaned_words = []
     for word in words:
         components = word.split('|')
-        if (len(components) > 2):
+        if len(components) > 2:
             word = {
                 'type': components[0],
                 'lang': components[1],
