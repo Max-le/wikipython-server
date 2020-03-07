@@ -12,22 +12,6 @@ app = Flask(__name__)
 CORS(app)
 
 
-@app.route('/')
-def home():
-    return render_template("home.html")
-
-
-@app.route('/', methods=['POST'])
-def my_form_post():
-    word = request.form['text']
-    lang = 'German'
-    payload = {'word': word, 'lang': lang}
-    r = requests.get("https://"+request.base_url+"translate", params=payload)
-
-    result = json.loads(r.text)
-    return render_template("home.html", data=result)
-
-
 @app.route('/translate')
 def translate():
     word = request.args.get('word')
