@@ -11,6 +11,9 @@ from wiki import *
 app = Flask(__name__)
 CORS(app)
 
+@app.route('/')
+def home():
+    return 'use the API via the route /translate'
 
 @app.route('/translate')
 def translate():
