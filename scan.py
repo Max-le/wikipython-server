@@ -6,8 +6,13 @@ def prettify(string):
     return string.replace('{', '').replace('}', '').replace('trans-top|', '').replace("\n", "")
 
 
-# Returns a dictionary containing [ definition =>  word]
 def extract_defs_and_translations(filename, target_lang):
+    """
+Returns a dictionary containing [ definition =>  word]
+    @param filename:
+    @param target_lang:
+    @return:
+    """
     translations = dict()
     if not os.path.isfile(filename): raise Exception('Couldn\'t find ' + filename)
     with open(filename, 'rt') as lines:
@@ -20,7 +25,6 @@ def extract_defs_and_translations(filename, target_lang):
                 word = word.replace("* " + target_lang + ": ", "")
                 word = structure_word(word)
                 translations[current_definition] = word
-    print(translations)
     return translations
 
 
