@@ -14,3 +14,6 @@ Send a GET request to route /translate with params : "word" ( the word to transl
 Example : localhost:5000/translate?word=meaning&lang=German
 
 The back-end of the app ( python server) is accessible at https://wiki-python-server.herokuapp.com
+
+### Demo
+A react app that utilizes this API : https://github.com/Max-le/wikipython-client
